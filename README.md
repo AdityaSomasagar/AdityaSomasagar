@@ -1,8 +1,6 @@
 # 💫 About Me:
 ### 👋 Hey there! I'm Aditya
 
-### 👨‍💻 About Me
-
 🎓 Pursuing B.Tech in Information Science Engineering at Jain (Deemed-to-be University) — CGPA: 8.47 (Till 6th Sem) <br>
 💼 Software Development Intern at Krutha Info Systems — built REST APIs using Java & Spring Boot <br>
 🧠 Proficient in **Core Java** (DSA - Linear), with a working knowledge of **Python** <br>
